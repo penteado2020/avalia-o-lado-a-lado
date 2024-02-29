@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial;
+}
+
+body {
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    padding: 5em;
+}
+
+
+/* botão  */
+#botaoEnvio {
+    /* background-color: blue;  
+    text-decoration: darkgoldenrod; */
+    background-color: blue;
+}
+
+/*
+#pergunta1 {
+    background-color: aquamarine
+}
+*/
+
+/* h1 */
+h1 {
+    text-align: center;
+    background-color: darkorange;
+}
+
+/* strong do botao de enviando resultados */
+
+#doEnvio {
+    color: gold;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+
+
+
+
+
+/*
+
+#itens {
+    background-color: chocolate;
+    text-align: right;
+}
+
+buttons .itens {
+    background-color: brown;
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+    font-size: 3em;
+}
+
+
+
+
+.pergunta1 {
+    display: none;
+    background-color: beige;
+}
+
+.pergunta2 {
+    display: none;
+    background-color: bisque;
+}
+
+.pergunta3 {
+    display: none;
+    background-color: blanchedalmond;
+}
+
+.pergunta4 {
+    display: none;
+    background-color: coral;
+}
+
+.pergunta5 {
+    display: none;
+    background-color: darksalmon;
+}
+/*
